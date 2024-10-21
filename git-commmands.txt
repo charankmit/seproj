@@ -1,0 +1,20 @@
+
+1. git remote add origin https://github.com/charankmit/seproj.git
+2. git remote set-url origin https://github.com/charankmit/seproj.git
+
+3. git remote -v
+
+4. git add .
+
+5. git commit -m "Message"
+
+6. git push origin main/master
+
+7. git push --set-upstream origin master
+
+it requires a git repo which is already created on web it expects authentication.
+
+
+
+
+
