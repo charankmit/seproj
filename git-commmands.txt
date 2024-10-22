@@ -16,5 +16,7 @@ it requires a git repo which is already created on web it expects authentication
 
 
 
+8. git pull origin master
+
 
 
