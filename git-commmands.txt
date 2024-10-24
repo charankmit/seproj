@@ -1,6 +1,7 @@
 
 1. git remote add origin https://github.com/charankmit/seproj.git
-2. git remote set-url origin https://github.com/charankmit/seproj.git
+
+b 2. git remote set-url origin https://github.com/charankmit/seproj.git
 
 3. git remote -v
 
