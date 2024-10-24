@@ -1,23 +1,30 @@
+#local  ==> remote repository.
+1. mkdir <dirname>	// to create new project directory
+2. cd <dirname>	//move to project directory
+3. git init	// git initialization
+4. create project files in the <dirname> folder
+5. git add .	// to staging 
+6. git commit -m "Commit Messgage"		// commit all the changes
+7. git remote -v
+origin https://github.com/charankmit/seproj.git(fetch)	//shows the repository which you are connected
+origin https://github.com/charankmit/seproj.git (push)
+	
+8. if you are not connected use below
+		
+>>>git remote add origin https://github.com/charankmit/seproj.git  // github link with repository name
 
-1. git remote add origin https://github.com/charankmit/seproj.git
+9. git push origin master		// it will push all te commited files to remote repository
 
-b 2. git remote set-url origin https://github.com/charankmit/seproj.git
 
-3. git remote -v
-
-4. git add .
-
-5. git commit -m "Message"
-
-6. git push origin main/master
-
-7. git push --set-upstream origin master
-
-it requires a git repo which is already created on web it expects authentication.
+10 git pull origin master		// it will pull all the commited files to local folder 
 
 
 
-8. git pull origin master
+
+#local repository set up 
+
+
+
 
 
 
